@@ -10,4 +10,4 @@
 ### 取り組んでいるテーマ  
 - 物理演算を使用したゲームに挑戦する　
 - 強制スクロール式のアクションゲームを作る　
-https://docs.google.com/document/d/1dKd-aKfBcZA42yH51bn1KvV6Eo0Aa1-RN0IS9qmF-ig/edit?usp=sharing
+  - https://docs.google.com/document/d/1dKd-aKfBcZA42yH51bn1KvV6Eo0Aa1-RN0IS9qmF-ig/edit?usp=sharing
